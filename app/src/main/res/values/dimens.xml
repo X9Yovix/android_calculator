@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="resTextSize">150px</dimen>
+    <dimen name="workingArea">100px</dimen>
+
+    <dimen name="btnWidthSize">10px</dimen>
+    <dimen name="btnHeightSize">150px</dimen>
+    <dimen name="btnTextSize">70px</dimen>
+    <dimen name="btnMarginRightAndLeft">10px</dimen>
+</resources>
